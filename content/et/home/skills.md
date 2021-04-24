@@ -27,7 +27,7 @@ feature:
 - description: beebi pildistamine poseerimispadja peal ja rekvisiidis, 25 töödeldud pilti, fotod pereliikmetega ning ühine perepilt, pildistamine stuudios 2-3 tunni jooksul, retušeeritud piltidest koostatud veebigalerii, fotoraamat 20 х 20 cm, prinditud pildid 10x15cm, kõikide fotodega individuaalselt kujundatud pakendis USB-mälupulk, lisapildi töötlus 8€ / pilt.
   icon: camera-retro
   icon_pack: fas
-  name: PAKETT L 365€
+  name: PAKETT L 385€
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

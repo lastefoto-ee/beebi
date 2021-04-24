@@ -27,7 +27,7 @@ feature:
 - description: photo ession of a newborn on a posing pillow (beanbag) and in the props, 25 processed digital photos, family shots and photos with siblings, shooting for 2-3 hours in the studio, printed photos 10x15cm, photobook 20 x 20 cm, USB drive with all photos in individually designed packaging, processing of additional photos 8 € / photo
   icon: camera-retro
   icon_pack: fas
-  name: Package L 365€
+  name: Package L 385€
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
