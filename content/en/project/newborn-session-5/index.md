@@ -1,10 +1,9 @@
 ---
-title: Newborn session
-summary: twins, 10 days new
+title: Newborn baby photosession
+summary: babyboy, 6 days new
 tags:
-- all
-- twins
-date: "2020-08-01T00:00:00Z"
+- beanbag
+date: "2019-09-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,7 +15,7 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: twitter
+  name: Twitter
   url: https://twitter.com/lastefoto
 url_code: ""
 url_pdf: ""

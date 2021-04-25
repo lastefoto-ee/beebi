@@ -23,6 +23,14 @@ date_format: 2006-01-01
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: "https://www.lastefoto.ee/certificate-Bunaeva-Vogue.jpg"
+  date_end: ""
+  date_start: "2021-04-05"
+  description: 'Online course of the founder of the direction "Pregnancy photoshoot in the style of Vogue" - Sasha Bunaeva'
+  organization: Sasha Bunaeva
+  organization_url: "https://bunaeva.com"
+  title: 'Online course "Pregnancy photosession in the Vogue style"'
+  url: "https://bunaeva.com"
 - certificate_url: "https://www.lastefoto.ee/newborn-forum-participation.jpg"
   date_end: ""
   date_start: "2020-02-07"

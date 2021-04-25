@@ -25,6 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Pregnancy photosession in the style of Vogue
+    institution: bunaeva.com
+    year: 2021  
   - course: Koolitused rahvusvahelise newborn foorumis
     institution: newbornforum.ru
     year: 2020
@@ -73,7 +76,7 @@ email: "viktoria.iljin@gmail.com"
 highlight_name: false
 ---
 
-Tere! Olen Viktoria - vastsündinud beebide fotograaf Tallinnas, Eestis. 
+Tere! Olen Viktoria - beebiootuse ja vastsündinu fotograaf Tallinnas, Eestis. 
 
 Koos saaksime luua teie pere ilusa ja ainulaadse ajaloo. 
 

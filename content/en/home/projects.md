@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: Portfolio
-subtitle: 'timeless and most beautiful baby pictures'
+subtitle: 'timeless and most beautiful pregnancy and newborn pictures'
 
 content:
   # Page type to display. E.g. project.
@@ -26,7 +26,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: all
-    tag: all
+    tag: "*"
   - name: beanbag
     tag: beanbag
   - name: wrapped 
@@ -35,6 +35,12 @@ content:
     tag: props
   - name: twins
     tag: twins
+  - name: family
+    tag: family
+  - name: pregnancy
+    tag: pregnancy
+  - name: silhouette
+    tag: silhouette
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

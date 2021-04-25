@@ -1,9 +1,7 @@
 ---
-title: Фотография новорожденных
-summary: мальчик, 11 дней
+title: Съемка новорожденнго в студии
+summary: девочка, 9 дней
 tags:
-- все
-- обмотка 
 - реквизит
 date: "2020-08-22T00:00:00Z"
 
@@ -19,7 +17,6 @@ links:
   icon_pack: fab
   name: Instagram
   url: https://instagram.com/lastefoto.ee
-url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""

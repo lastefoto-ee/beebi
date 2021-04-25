@@ -11,7 +11,7 @@ header:
   caption: ""
   image: ""
 ---
-Käesolevad Kasutustingimused kohalduvad OÜ Boonus Meedia ja Ostja vahel veebikeskkonnas https://www.beebi.eu Kauba(de) ostmisel.
+Käesolevad Kasutustingimused kohalduvad OÜ Boonus Meedia ja Ostja vahel veebikeskkonnas https://www.beebifoto.eu Kauba(de) ostmisel.
 
 ## Definitsioonid
 
@@ -23,7 +23,7 @@ Käesolevad Kasutustingimused kohalduvad OÜ Boonus Meedia ja Ostja vahel veebik
 
 1.4 Müügileping - Ettevõtte vahendusel Ostja ja Fotograafi vahel sõlmitud leping, mis kinnitab Kauba(de) ostmist.
 
-1.5 Kaup - e-poes https://www.beebi.eu müüdav toode.
+1.5 Kaup - e-poes https://www.beebifoto.eu müüdav toode.
 
 1.6 Veebisait - Ettevõtte poolt toodetud ja hallatav keskkond Kauba(de) ostmiseks.
 

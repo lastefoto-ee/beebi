@@ -1,10 +1,10 @@
 ---
-title: Newborn session
-summary: babygirl, 14 days new
+title: Newborn baby photosession
+summary: babyboy, 6 days new
 tags:
-- all
-- props
-date: "2020-10-15T00:00:00Z"
+- wrapped
+- family
+date: "2020-05-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,7 +16,7 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: twitter
+  name: Twitter
   url: https://twitter.com/lastefoto
 url_code: ""
 url_pdf: ""

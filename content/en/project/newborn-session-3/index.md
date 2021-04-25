@@ -1,12 +1,11 @@
 ---
-title: Newborn session
-summary: twins, 10 days new
+title: Newborn photosession
+summary: kaksikud, 22 days new
 tags:
-- all
-- beanbag
-- wrapped
 - twins
-date: "2020-10-17T00:00:00Z"
+- props
+- wrapped
+date: "2021-01-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -18,7 +17,7 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: twitter
+  name: Twitter
   url: https://twitter.com/lastefoto
 url_code: ""
 url_pdf: ""

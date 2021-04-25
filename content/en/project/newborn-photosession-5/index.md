@@ -1,10 +1,9 @@
 ---
 title: Newborn photosession
-summary: babygirl, 11 days new
+summary: babygirl, 19 days new
 tags:
-- all
 - beanbag
-date: "2020-10-17T00:00:00Z"
+date: "2020-07-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,7 +15,7 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: twitter
+  name: Twitter
   url: https://twitter.com/lastefoto
 url_code: ""
 url_pdf: ""

@@ -14,7 +14,7 @@ organizations:
   url: https://www.lastefoto.ee/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Фотограф новорожденных в Таллине создаст красивую и неповторимую историю вашей семьи
+bio: Фотограф беременности и новорожденных в Таллине создаст красивую и неповторимую историю вашей семьи
 
 # Interests to show in About widget
 interests:
@@ -25,6 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Фотосессия беременности в стиле Vogue
+    institution: bunaeva.com
+    year: 2021  
   - course: Мастер-классы форума фотографов новорожденных
     institution: newbornforum.ru
     year: 2020
@@ -73,7 +76,7 @@ email: "viktoria.iljin@gmail.com"
 highlight_name: false
 ---
 
-Здравствуйте! Я Виктория, фотограф новорожденных из Таллинна.
+Здравствуйте! Я Виктория, фотограф беременности в стиле Vogue и новорожденных из Таллинна.
 
 Вместе мы могли бы создать уникальную историю вашей семьи
 

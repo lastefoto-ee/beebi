@@ -89,7 +89,7 @@ show_related:
   project: false
   publication: true
   event: true
-reading_time: true
+reading_time: false
 section_pager: false
 docs_section_pager: true
 sharing: true
@@ -139,9 +139,9 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: 'G-VYWD0PF8L4'
+  google_analytics: 'G-XG7MZBP8JT'
   google_tag_manager: ''
-  google_site_verification: 'MijlVlw1EhXd_fBZcZVRJKftoUiAYsoVfdOit1_mB8s'
+  google_site_verification: 'U1jkS28WgsK26pwWUAAyn6MjO-D8Vpjh7mr37zePOnM'
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:

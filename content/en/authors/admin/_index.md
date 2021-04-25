@@ -14,7 +14,7 @@ organizations:
   url: https://www.lastefoto.ee/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Newborn photographer in Tallinn, Estonia.
+bio: Pregnancy and newborn photographer in Tallinn, Estonia.
 
 # Interests to show in About widget
 interests:
@@ -25,6 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Pregnancy photosession in the style of Vogue
+    institution: bunaeva.com
+    year: 2021  
   - course: NewbornForum workshops
     institution: newbornforum.ru
     year: 2020
@@ -69,7 +72,7 @@ email: "viktoria.iljin@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Hi! I'm Viktoria a newborn photographer in Tallinn, Estonia.
+Hi! I'm Viktoria a pregnancy and newborn photographer in Tallinn, Estonia.
 
 Together we could create an unique **history of _your_ family ❤️**
 

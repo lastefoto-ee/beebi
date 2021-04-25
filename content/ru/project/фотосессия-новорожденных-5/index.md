@@ -1,10 +1,9 @@
 ---
-title: Фотография новорожденных
-summary: мальчик, 11 дней
+title: Фотосессия новорожденного в студии
+summary: мальчик, 6 дней
 tags:
-- все
 - бинбег
-date: "2020-10-21T00:00:00Z"
+date: "2019-09-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

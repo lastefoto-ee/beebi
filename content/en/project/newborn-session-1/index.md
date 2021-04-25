@@ -1,9 +1,9 @@
 ---
-title: Newborn session
-summary: babygirl, 14 days new
+title: Newborn photosession
+summary: beebitüdruk, 9 days new
 tags:
-- all
-date: "2021-01-28T00:00:00Z"
+- props
+date: "2020-08-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -15,7 +15,7 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: twitter
+  name: Twitter
   url: https://twitter.com/lastefoto
 url_code: ""
 url_pdf: ""

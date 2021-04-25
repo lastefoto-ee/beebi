@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: Portfoolio
-subtitle: 'ajatud ja kõige ilusamad beebi pildid'
+subtitle: 'ajatud ja kõige ilusamad beebiootuse ja vastsündinud beebi pildid'
 
 content:
   # Page type to display. E.g. project.
@@ -26,15 +26,22 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: kõik
-    tag: kõik
+    tag: "*"  
   - name: beanbagil
     tag: beanbagil
   - name: mähitud 
     tag: mähitud
   - name: rekvisiidis
     tag: rekvisiidis
+  - name: pere
+    tag: pere  
   - name: kaksikud
     tag: kaksikud
+  - name: beebiootus
+    tag: beebiootus
+  - name: siluett
+    tag: siluett  
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

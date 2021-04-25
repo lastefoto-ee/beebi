@@ -1,11 +1,11 @@
 ---
-title: Фотография новорожденных
-summary: мальчик, 11 дней
+title: Съемка новорожденного в Таллинне
+summary: близнецы, 22 дня
 tags:
-- все
-- реквизит
+- близнецы
+- резвизит
 - обмотка
-date: "2019-12-11T00:00:00Z"
+date: "2021-01-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -11,12 +11,12 @@ header:
   caption: ""
   image: ""
 ---
-Käesolevad Privaatsustingimused kohalduvad, kui Te kasutate veebikeskkonda https://www.beebi.eu Veebikeskkonna kasutamine loetakse Teie nõusolekuks käesolevate Privaatsustingimustega.
+Käesolevad Privaatsustingimused kohalduvad, kui Te kasutate veebikeskkonda https://www.beebifoto.eu Veebikeskkonna kasutamine loetakse Teie nõusolekuks käesolevate Privaatsustingimustega.
 
 1. Privaatsuspoliitika sätestab reeglid isikuandmete kogumiseks, säilitamiseks ja töötlemiseks Boonus Meedia OÜ (edaspidi Ettevõte) teenuste kasutamisel.
 
 Fotod, mis Lastefoto.ee fotograafi (edaspidi Fotograaf) poolt tehakse, näevad ja saavad ainult Fotograafi kliendid. Fotograafi poolt tehtud pildid lähevad Fotograafi arhiivi ja kliendile.
-Kui Fotograaf soovib kasutada kliendi pilte https://www.beebi.eu veebilehel või Fotograafi sotsiaalmeedia lehtedel, siis ainult sellisel juhul, kui on saanud kirjaliku loa kliendilt emaili teel või ankeedi täitmisel.
+Kui Fotograaf soovib kasutada kliendi pilte https://www.beebifoto.eu veebilehel või Fotograafi sotsiaalmeedia lehtedel, siis ainult sellisel juhul, kui on saanud kirjaliku loa kliendilt emaili teel või ankeedi täitmisel.
 
 2. Privaatsuspoliitika on mõeldud turvalisuse ja isikuandmete kaitse tagamiseks kasutajale, et kaitsta neid ebaseadusliku isikuandmete kasutamise eest.
 

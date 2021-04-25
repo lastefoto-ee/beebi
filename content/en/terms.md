@@ -11,7 +11,7 @@ header:
   caption: ""
   image: ""
 ---
-These terms of service are valid for the purchase of Products in the https://www.beebi.eu online environment between OÜ Boonus Meedia and the Buyer.
+These terms of service are valid for the purchase of Products in the https://www.beebifoto.eu online environment between OÜ Boonus Meedia and the Buyer.
 
 ## Definitions
 1.1 Buyer is a registered user, a user who bought a product.
@@ -22,7 +22,7 @@ These terms of service are valid for the purchase of Products in the https://www
 
 1.4 Sales and Purchase Agreement - an agreement concluded between the Buyer and the Photographer through the Company, which confirms the purchase of the goods.
 
-1.5 Product - a product sold in the online store at https://www.beebi.eu
+1.5 Product - a product sold in the online store at https://www.lbeebifoto.eu
 
 1.6 Website is an environment for the sale of Products created and operated by the Company.
 

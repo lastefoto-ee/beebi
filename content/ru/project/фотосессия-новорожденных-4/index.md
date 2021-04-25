@@ -1,10 +1,10 @@
 ---
-title: Фотография новорожденных
-summary: мальчик, 19 дней
+title: Съемка новорожденного в Таллинне
+summary: мальчик, 6 дней
 tags:
-- все
-- бинбег
-date: "2020-11-07T00:00:00Z"
+- обмотка
+- семья
+date: "2020-05-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
