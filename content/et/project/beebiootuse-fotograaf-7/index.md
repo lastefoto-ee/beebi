@@ -3,6 +3,7 @@ title: Beebiootuse pildistamine
 summary: Beebiootuse pildistamine Tallinnas
 tags:
 - beebiootus
+- siluett
 date: "2020-10-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

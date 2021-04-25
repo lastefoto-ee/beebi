@@ -3,7 +3,6 @@ title: Beebiootuse fotosessioon
 summary: Beebiootuse fotosessioon stuudios
 tags:
 - beebiootus
-- siluett
 date: "2019-12-11T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

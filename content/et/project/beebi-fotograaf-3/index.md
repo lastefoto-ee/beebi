@@ -1,8 +1,9 @@
 ---
 title: Vastsündinu pildistamine
-summary: beebipoiss, 28 päeva uus
+summary: beebipoiss, 11 päeva uus
 tags:
-- pere
+- rekvisiidis
+- mähitud
 date: "2021-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

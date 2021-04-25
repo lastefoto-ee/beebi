@@ -1,6 +1,6 @@
 ---
 title: Vastsündinud beebi pildistamine
-summary: beebipoiss, 6 päeva uus
+summary: beebitüdruk, 6 päeva uus
 tags:
 - beanbagil
 date: "2020-10-17T00:00:00Z"

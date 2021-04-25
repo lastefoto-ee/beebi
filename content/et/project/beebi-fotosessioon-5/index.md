@@ -1,8 +1,9 @@
 ---
 title: Beebi fotosessioon
-summary: beebipoiss, 6 päeva uus
+summary: beebitüdruk, 19 päeva uus
 tags:
 - beanbagil
+- mähitud
 date: "2019-09-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

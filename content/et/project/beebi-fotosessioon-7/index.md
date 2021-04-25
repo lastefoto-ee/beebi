@@ -1,7 +1,9 @@
 ---
 title: Beebi fotosessioon
-summary: beebitüdruk, 19 päeva uus
+summary: beebitüdruk, 35 päeva uus
 tags:
+- rekvisiidis
+- mähitud
 date: "2021-01-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

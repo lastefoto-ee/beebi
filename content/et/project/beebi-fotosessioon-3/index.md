@@ -1,10 +1,8 @@
 ---
-title: Vastsündinud kaksikute pildistamine
-summary: kaksikud, 22 päeva uus
+title: Vastsündinud beebi pildistamine
+summary: beebipoiss, 6 päeva uus
 tags:
-- kaksikud
-- rekvisiidis
-- mähitud
+- beanbagil
 date: "2021-01-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

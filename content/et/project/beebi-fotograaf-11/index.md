@@ -1,8 +1,8 @@
 ---
-title: Beebi Fotosessioon
-summary: beebitüdruk, 6 päeva uus
+title: Beebi fotosessioon
+summary: kaksikud, 15 päeva uus
 tags:
-- beanbagil
+- pere
 date: "2020-10-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -1,8 +1,8 @@
 ---
 title: Vastsündinu sessioon
-summary: beebitüdruk, 9 päeva uus
+summary: beebipoiss, 12 päeva uus
 tags:
-- pere
+- beanbagil
 date: "2021-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

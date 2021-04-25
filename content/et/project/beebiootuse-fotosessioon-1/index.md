@@ -3,7 +3,6 @@ title: Beebiootuse fotosessioon
 summary: Beebiootuse fotosessioon Tallinnas
 tags:
 - beebiootus
-- siluett
 date: "2020-08-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -1,9 +1,8 @@
 ---
 title: Vastsündinud beebi fotosessioon
-summary: beebipoiss, 15 päeva uus
+summary: beebipoiss, 28 päeva uus
 tags:
 - beanbagil
-- mähitud
 date: "2020-05-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

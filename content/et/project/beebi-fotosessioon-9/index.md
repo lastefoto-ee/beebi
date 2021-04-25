@@ -1,9 +1,8 @@
 ---
 title: Vastsündinu fotosessioon
-summary: beebitüdruk, 35 päeva uus
+summary: beebipoiss, 10 päeva uus
 tags:
 - rekvisiidis
-- mähitud
 date: "2020-10-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

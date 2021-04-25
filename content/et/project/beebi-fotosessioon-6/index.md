@@ -1,10 +1,8 @@
 ---
-title: Vastsündinud beebide fotosessioon
-summary: mähitud, 19 päeva uus
+title: Vastsündinud beebi fotosessioon
+summary: tüdruk, 19 päeva uus
 tags:
-- kaksikud
-- mähitud
-- pere
+- beanbagil
 date: "2020-07-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

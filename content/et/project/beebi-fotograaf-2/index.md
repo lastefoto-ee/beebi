@@ -1,8 +1,8 @@
 ---
 title: Vastsündinud beebide sessioon
-summary: beebipoiss, 21 päeva uus
+summary: beebipoiss, 11 päeva uus
 tags:
-- pere
+- rekvisiidis
 date: "2020-07-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

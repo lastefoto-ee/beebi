@@ -1,8 +1,9 @@
 ---
 title: Vastsündinu pildistamine
-summary: beebitüdruk, 9 päeva uus
+summary: kaksikud, 7 päeva uus
 tags:
-- rekvisiidis
+- beanbagil
+- kaksikud
 date: "2020-08-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
