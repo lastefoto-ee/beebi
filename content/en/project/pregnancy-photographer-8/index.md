@@ -3,7 +3,6 @@ title: Pregnancy session
 summary: Pregnancy session in Tallinn
 tags:
 - pregnancy
-- silhouette
 date: "2020-10-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

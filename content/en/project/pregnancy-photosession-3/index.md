@@ -3,7 +3,6 @@ title: Pregnancy photosession
 summary: Pregnancy photosession in the studio
 tags:
 - pregnancy
-- silhouette
 date: "2019-12-11T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

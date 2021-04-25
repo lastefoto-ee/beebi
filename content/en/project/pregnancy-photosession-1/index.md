@@ -3,7 +3,6 @@ title: Pregnancy photosession
 summary: Pregnancy photosession in Tallinn
 tags:
 - pregnancy
-- silhouette
 date: "2020-08-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

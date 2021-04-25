@@ -1,7 +1,9 @@
 ---
 title: Newborn session
-summary: babygirl, 19 days new
+summary: babygirl, 35 days new
 tags:
+- props
+- wrapped
 date: "2021-01-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

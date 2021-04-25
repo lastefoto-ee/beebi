@@ -1,9 +1,8 @@
 ---
 title: newborn photosession
-summary: babygirl, 35 days new
+summary: babyboy, 10 days new
 tags:
 - props
-- wrapped
 date: "2020-10-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

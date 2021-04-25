@@ -1,8 +1,9 @@
 ---
 title: Newborn photosession
-summary: beebitüdruk, 9 days new
+summary: twins, 7 days new
 tags:
-- props
+- twins
+- beanbag
 date: "2020-08-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

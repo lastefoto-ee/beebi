@@ -1,6 +1,6 @@
 ---
 title: Newborn photosession
-summary: babyboy, 6 days new
+summary: babygirl, 6 days new
 tags:
 - beanbag
 date: "2020-10-17T00:00:00Z"

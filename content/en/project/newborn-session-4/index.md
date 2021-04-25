@@ -1,9 +1,10 @@
 ---
 title: Newborn baby photosession
-summary: babyboy, 6 days new
+summary: twins, 19 days new
 tags:
 - wrapped
 - family
+- twins
 date: "2020-05-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

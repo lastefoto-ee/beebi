@@ -1,10 +1,8 @@
 ---
 title: Newborn photosession
-summary: kaksikud, 22 days new
+summary: babyboy, 6 days new
 tags:
-- twins
-- props
-- wrapped
+- beanbag
 date: "2021-01-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

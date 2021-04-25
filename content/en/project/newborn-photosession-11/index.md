@@ -1,8 +1,8 @@
 ---
 title: Newborn session
-summary: babygirl, 6 days new
+summary: babyboy, 15 days new
 tags:
-- beanbag
+- family
 date: "2020-10-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

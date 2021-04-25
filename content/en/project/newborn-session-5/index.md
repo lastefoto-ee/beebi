@@ -1,8 +1,9 @@
 ---
 title: Newborn baby photosession
-summary: babyboy, 6 days new
+summary: babygirl, 19 days new
 tags:
 - beanbag
+- wrapped
 date: "2019-09-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
