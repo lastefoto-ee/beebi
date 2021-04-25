@@ -1,8 +1,9 @@
 ---
 title: Съемка новорожденнго в студии
-summary: мальчик, 6 дней
+summary: девочка, 11 дней
 tags:
 - бинбег
+- обмотка
 date: "2020-10-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

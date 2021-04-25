@@ -1,8 +1,9 @@
 ---
 title: Фотосессия новорожденного в Таллинне
-summary: мальчик, 28 дней
+summary: мальчик, 15 дней
 tags:
 - семья
+- близнецы
 date: "2021-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

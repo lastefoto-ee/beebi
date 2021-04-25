@@ -3,7 +3,6 @@ title: Фотосессия беременности
 summary: Фотосессия беременности в студии
 tags:
 - беременность
-- силуэт
 date: "2020-11-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -1,8 +1,9 @@
 ---
 title: Фотосессия новорожденного
-summary: мальчик, 12 дней
+summary: девочка, 12 дней
 tags:
 - бинбег
+- обмотка
 date: "2021-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

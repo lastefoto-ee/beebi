@@ -1,8 +1,8 @@
 ---
 title: Фотосессия новорожденного в Таллинне
-summary: мальчик, 6 дней
+summary: девочка, 19 дней
 tags:
-- реквизит
+- бинбег
 date: "2020-10-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

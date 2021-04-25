@@ -3,7 +3,6 @@ title: Фотосессия беременности
 summary: Фотосессия беременности в Таллинне
 tags:
 - беременность
-- силуэт
 date: "2020-10-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

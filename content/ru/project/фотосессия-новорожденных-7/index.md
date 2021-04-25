@@ -1,6 +1,6 @@
 ---
 title: Фотосессия новорожденного в Таллинне
-summary: beebitüdruk, 19 päeva uus
+summary: девочка, 19 дней
 tags:
 date: "2021-01-28T00:00:00Z"
 

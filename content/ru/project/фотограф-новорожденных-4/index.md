@@ -1,8 +1,9 @@
 ---
-title: Фотосессия новорожденного в Таллинне
-summary: девочка, 9 дней
+title: Фотосессия новорожденных близнецов в Таллинне
+summary: близнецы, 7 дней
 tags:
-- семья
+- близнецы
+- бинбег
 date: "2021-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
