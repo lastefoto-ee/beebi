@@ -6,7 +6,7 @@ title: Виктория Ильин
 superuser: true
 
 # Role/position/tagline
-role: Фотограф новорожденных
+role: Фотограф беременности и новорожденных
 
 # Organizations/Affiliations to show in About widget
 organizations:

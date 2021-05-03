@@ -6,7 +6,7 @@ title: Viktoria Iljin
 superuser: true
 
 # Role/position/tagline
-role: Beebifotograaf
+role: Beebiootuse ja beebi fotograaf
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.lastefoto.ee/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Vastsündinud beebide fotograaf Tallinnas. Loome koos Teie pere ilusat ja ainulaadset ajalugu.
+bio: Beebiootuse ja beebi fotograaf Tallinnas. Loome koos Teie pere ilusat ja ainulaadset ajalugu.
 
 # Interests to show in About widget
 interests:
@@ -76,7 +76,7 @@ email: "viktoria.iljin@gmail.com"
 highlight_name: false
 ---
 
-Tere! Olen Viktoria - beebiootuse ja vastsündinu fotograaf Tallinnas, Eestis. 
+Tere! Olen Viktoria - beebiootuse ja beebi fotograaf Tallinnas, Eestis. 
 
 Koos saaksime luua teie pere ilusa ja ainulaadse ajaloo. 
 

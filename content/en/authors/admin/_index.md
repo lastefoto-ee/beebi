@@ -6,7 +6,7 @@ title: Viktoria Iljin
 superuser: true
 
 # Role/position/tagline
-role: Newborn photographer
+role: Pregnancy and newborn photographer
 
 # Organizations/Affiliations to show in About widget
 organizations:
