@@ -20,7 +20,7 @@ If the Photographer wishes to use the client's images on the website https://www
 
 2. This privacy policy is designed to ensure the safety and security of the user's personal data in order to protect it from unauthorized use.
 
-3. The processor of the user's personal data is the Company. The user's personal data is processed in accordance with the current regulation on the protection of personal data of the Republic of Estonia.
+3. The company is the main processor of personal data and transfers the personal data necessary for making payments to the authorized processor Maksekeskus AS. The user's personal data is processed in accordance with the current regulation on the protection of personal data of the Republic of Estonia.
 
 4. The company collects personal data of the user when registering the user on the website, as well as in other processes of using the website by the user.
 

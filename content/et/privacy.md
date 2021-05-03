@@ -20,7 +20,7 @@ Kui Fotograaf soovib kasutada kliendi pilte https://www.beebifoto.eu veebilehel 
 
 2. Privaatsuspoliitika on mõeldud turvalisuse ja isikuandmete kaitse tagamiseks kasutajale, et kaitsta neid ebaseadusliku isikuandmete kasutamise eest.
 
-3. Kasutaja isikuandmete töötlejaks on Ettevõte. Kasutaja isikuandmeid töödeldakse kooskõlas Eesti Vabariigis kehtiva isikuandmete kaitse regulatsiooniga.
+3. Kasutaja isikuandmete töötlejaks on Ettevõte. Kasutaja isikuandmeid töödeldakse kooskõlas Eesti Vabariigis kehtiva isikuandmete kaitse regulatsiooniga. Ettevõte edastab maksete teostamiseks vajalikud isikuandmed volitatud töötleja Maksekeskus AS'le.
 
 4. Isikuandmed on andmed, mida Fotograaf kogub era- äriisikuga ühenduse võtmiseks.
 
