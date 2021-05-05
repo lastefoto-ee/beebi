@@ -31,10 +31,10 @@ image:
   preview_only: false
 
 authors:
-  - Viktoria Iljin
+  - admin
 
 tags:
-  - beebiootus
+  - beebiootuse fotosessioon
   - lapseootus
   - Vogue 
   - riided

@@ -7,7 +7,6 @@ summary: Фотодень для беременных состоится 28 ма
 
 # Link this post with a project
 projects: 
-  - беременность
 
 # Date published
 date: "2021-05-05T00:00:00Z"
@@ -30,11 +29,10 @@ image:
   preview_only: false
 
 authors:
-  - Viktoria Iljin
+  - admin
 
 tags:
   - фотосессия беременности
-  - беременность
   - Vogue
   - фотодень
 

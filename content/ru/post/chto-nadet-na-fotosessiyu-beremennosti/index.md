@@ -30,11 +30,10 @@ image:
   preview_only: false
 
 authors:
-  - Viktoria Iljin
+  - admin
 
 tags:
   - фотосессия беременности
-  - беременность
   - Vogue
   - советы
   - одежда

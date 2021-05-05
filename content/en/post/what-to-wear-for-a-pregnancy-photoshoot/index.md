@@ -29,11 +29,10 @@ image:
   preview_only: false
 
 authors:
-  - Viktoria Iljin
+  - admin
 
 tags:
   - pregnancy photoshoot
-  - pregnancy
   - Vogue
   - tips
   - clothes

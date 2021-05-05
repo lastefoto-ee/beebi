@@ -7,7 +7,6 @@ summary: Photo day for pregnant ladies will take place on May 28, 2021 in Tallin
 
 # Link this post with a project
 projects: 
-  - pregnancy
 
 # Date published
 date: "2021-05-05T00:00:00Z"
@@ -30,11 +29,10 @@ image:
   preview_only: false
 
 authors:
-  - Viktoria Iljin
+  - admin
 
 tags:
   - pregnancy photo session
-  - pregnancy
   - Vogue
   - photo day
 
