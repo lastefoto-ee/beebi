@@ -50,4 +50,3 @@ subtitle = ""
  css_class = ""
 +++
 {{< video src="beebi-sessioon.mp4" controls="yes" >}}
-[Music](https://www.bensound.com)
