@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: Portfoolio
-subtitle: 'ajatud ja kõige ilusamad beebiootuse ja vastsündinud beebi pildid'
+subtitle: 'ajatud ja kõige ilusamad beebiootuse ja beebi pildid'
 
 content:
   # Page type to display. E.g. project.
