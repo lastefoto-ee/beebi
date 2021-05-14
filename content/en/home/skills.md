@@ -16,27 +16,27 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 1-2 set ups, 10 digital photos, 1 hour of shooting in the studio.
+- description: 1-2 set ups, 10 digital photos, assistance in posing, 1 hour of shooting in the studio.
   icon: camera-retro
   icon_pack: fas
   name: PREGNANCY S 160€
-- description: 2-3 set ups, silhouette on black and white backgrounds, 15 digital photos, 2 hours of shooting in the studio.
+- description: 2-3 set ups, silhouette on black and white backgrounds, 15 digital photos, assistance in posing, 2 hours of shooting in the studio.
   icon: camera-retro
   icon_pack: fas
-  name: PREGNANCY S 160€
-- description: 2-3 set ups, silhouette on black, white and on a colored backgrounds, 20 digital photos. 2 hours of shooting in the studio.
+  name: PREGNANCY M 235€
+- description: 2-3 set ups, silhouette on black and white backgrounds and silhouette on a colored background (if desired), assistance in posing, 20 digital photos, makeup and curls (for 1 person), 2 hours of shooting in the studio.
   icon: camera-retro
   icon_pack: fas
-  name: PREGNANCY S 160€
-- description: photosession of a newborn on a posing pillow (beanbag), 7 processed digital photos, shooting for 2 hours in the studio, printed photos 10x15cm, USB drive with all photos in individually designed packaging, processing of additional photos 10 € / photo
+  name: PREGNANCY L 345€
+- description: photo session of a newborn on a posing pillow (beanbag), 7 digital photos, shooting for 2 hours in the studio, printed photos 10x15cm, USB drive with all retouched photos in individually designed packaging, retouching of additional photos 10 € / photo
   icon: camera-retro
   icon_pack: fas
   name: NEWBORN S 160€
-- description: photosession of a newborn on a posing pillow (beanbag) and in the props, 15 processed digital photos,family shots and photos with siblings, shooting for 2-3 hours in the studio, printed photos 10x15cm, USB drive with all photos in individually designed packaging, processing of additional photos 9 € / photo
+- description: photo session of a newborn on a posing pillow (beanbag) and in the props, 15 digital photos, family shots and photos with siblings, shooting for 2-3 hours in the studio, printed photos 10x15cm, USB drive with all retouched photos in individually designed packaging, retouching of additional photos 9 € / photo
   icon: camera-retro
   icon_pack: fas
   name: NEWBORN M 250€
-- description: photo ession of a newborn on a posing pillow (beanbag) and in the props, 25 processed digital photos, family shots and photos with siblings, shooting for 2-3 hours in the studio, printed photos 10x15cm, photobook 20 x 20 cm, USB drive with all photos in individually designed packaging, processing of additional photos 8 € / photo
+- description: photo session of a newborn on a posing pillow (beanbag) and in the props, 25 digital photos, family shots and photos with siblings, shooting for 2-3 hours in the studio, printed photos 10x15cm, photobook 20 x 20 cm, USB drive with all retouched photos in individually designed packaging, retouching of additional photos 8 € / photo
   icon: camera-retro
   icon_pack: fas
   name: NEWBORN L 385€
