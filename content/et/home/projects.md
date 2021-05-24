@@ -33,10 +33,10 @@ content:
     tag: mähitud
   - name: rekvisiidis
     tag: rekvisiidis
-  - name: pere
-    tag: pere  
   - name: kaksikud
     tag: kaksikud
+  - name: pere
+    tag: pere
   - name: beebiootus
     tag: beebiootus
   - name: siluett
