@@ -25,6 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Newborn Retreat
+    institution: themilkyway.ca
+    year: 2021
   - course: Pregnancy photosession in the style of Vogue
     institution: bunaeva.com
     year: 2021  
@@ -72,15 +75,14 @@ email: "viktoria.iljin@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Hi! I'm Viktoria a pregnancy and newborn photographer in Tallinn, Estonia.
+Hi! I'm Viktoria - a pregnancy and newborn photographer in Tallinn, Estonia.
 
-Together we could create an unique **history of _your_ family ❤️**
+I have been professionally engaged in photography since 2016. For sixth years mothers trust me with their newborn babies, during that time I have photographed more than 400 newborn babies.
 
-Children are so natural, sincere and emotional and grow way up too fast.
+A newborn photo session in the first two weeks of a baby's life is an amazing, incomparable type of shooting. Elegant minimalism, simplicity and pithiness allow you to focus only on the baby. Such photos touch to the depths of the soul!
 
-To capture the emotions, spirit and warmth of your family, I will spend as much time as it takes to get beautiful pictures.
-
-During the chilled-out photo shooting, I delicatly adjust to the mood of the baby or child to obtain the very best result. 
+I work in my newborn studio, which I have equipped taking into account all the peculiarities and nuances of shooting newborns.
+Collected the best props and original accessories from all over the world.
 
 I would also be happy to publish your photo session pictures in my portfolio with your permission.
 

@@ -23,6 +23,22 @@ date_format: 2006-01-01
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: ""
+  date_end: ""
+  date_start: "2021-01-31"
+  description: 'Professional photographers shared their knowledge of pregnancy and newborn photography'
+  organization: The Milky Way
+  organization_url: "https://www.lastefoto.ee/en/newborn-retreat/"
+  title: 'Online course of foreign top photographers on photography of pregnancy and newborns'
+  url: "https://www.lastefoto.ee/en/newborn-retreat/"
+- certificate_url: "https://www.lastefoto.ee/certificate-Bunaeva-Vogue.jpg"
+  date_end: ""
+  date_start: "2021-04-05"
+  description: 'Online course of the founder of the direction "Pregnancy photoshoot in the style of Vogue" - Sasha Bunaeva'
+  organization: Sasha Bunaeva
+  organization_url: "https://www.lastefoto.ee/en/sasha-bunaeva/"
+  title: 'Online course "Pregnancy photosession in the Vogue style"'
+  url: "https://www.lastefoto.ee/en/sasha-bunaeva/"
 - certificate_url: "https://www.lastefoto.ee/newborn-forum-participation.jpg"
   date_end: ""
   date_start: "2020-02-07"
