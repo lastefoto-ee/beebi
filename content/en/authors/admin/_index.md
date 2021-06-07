@@ -18,7 +18,7 @@ bio: Pregnancy and newborn photographer in Tallinn, Estonia.
 
 # Interests to show in About widget
 interests:
-- Photography
+- Newborn Photography
 - Photoshop
 - Github
 
