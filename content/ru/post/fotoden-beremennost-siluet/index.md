@@ -41,16 +41,16 @@ categories:
 
 
 gallery_item:
-- album: silhouette
+- album: siluety
   image: fotosessiya-beremennosti-11.jpg
   caption: Фотосессия беременности в студии 
-- album: silhouette
+- album: siluety
   image: fotosessiya-beremennosti-12.jpg
   caption: Фотосессия беременности в Таллинне
-- album: silhouette
+- album: siluety
   image: fotosessiya-beremennosti-13.jpg
   caption: Фотосессия беременности в студии в Таллинне
-- album: silhouette
+- album: siluety
   image: fotosessiya-beremennosti-14.jpg
   caption: Фотосессия беременности в стиле Vogue
 - album: siluet
@@ -134,6 +134,6 @@ _Запись по предоплате 20€. При отмене фотосе�
 
 _В общем, не думайте о времени, думайте о настроении и получайте удовольствие от происходящего._ 
 
-{{< gallery album="silhouette" >}}
+{{< gallery album="siluety" >}}
 
 {{< cta cta_text="Запишись на фотодень" cta_link="/ru/#contact" cta_new_tab="false" >}}

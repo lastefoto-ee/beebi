@@ -41,16 +41,16 @@ categories:
   - beebiootus
 
 gallery_item:
-- album: silhouette
+- album: siluett
   image: beebiootuse-sessioon-11.jpg
   caption: Beebiootuse fotosessioon stuudios
-- album: silhouette
+- album: siluett
   image: beebiootuse-sessioon-12.jpg
   caption: Beebiootuse fotosessioon Tallinnas
-- album: silhouette
+- album: siluett
   image: beebiootuse-sessioon-13.jpg
   caption: Beebiootusefotosessioon Tallinna stuudios
-- album: silhouette
+- album: siluett
   image: beebiootuse-sessioon-14.jpg
   caption: Beebiootuse fotosessioon Vogue stiilis
 - album: siluetid
@@ -131,6 +131,6 @@ Kui kaadris olevad inimesed on positiivsed ja on valmis fotosessioonist aktiivse
 
 _Üldiselt ärge mõelge kellaajale, vaid mõelge meeleolule ja nautige toimuvat._
 
-{{< gallery album="silhouette" >}}
+{{< gallery album="siluett" >}}
 
 {{< cta cta_text="Registreeru beebiootuse fotopäevale" cta_link="/#contact" cta_new_tab="true" >}}
