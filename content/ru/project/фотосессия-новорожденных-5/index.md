@@ -3,7 +3,7 @@ title: Фотосессия новорожденного в студии
 summary: мальчик, 6 дней
 tags:
 - бинбег
-date: ""2021-10-19T14:33:53+03:00"
+date: "2021-10-19T14:33:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

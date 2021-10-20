@@ -4,7 +4,7 @@ summary: девочки, 19 дней
 tags:
 - близнецы
 - обмотка
-date:"2021-10-19T12:58:53+03:00"
+date: "2021-10-19T12:58:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

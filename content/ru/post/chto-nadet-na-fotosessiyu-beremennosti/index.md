@@ -13,7 +13,7 @@ projects:
 date: "2021-10-19T11:51:53+03:00"
 
 # Date updated
-lastmod:"2021-10-19T11:51:53+03:00"
+lastmod: "2021-10-19T11:51:53+03:00"
 
 # Is this an unpublished draft?
 draft: false
