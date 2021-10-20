@@ -4,7 +4,7 @@ summary: Фотосессия беременности в Таллинне
 tags:
 - беременность
 - семья
-date: "2020-08-22T00:00:00Z"
+date: "2021-10-19T14:10:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,11 +13,7 @@ image:
   caption: Photo by Viktoria Iljin
   focal_point: Smart
 
-links:
-- icon: instagram
-  icon_pack: fab
-  name: Instagram
-  url: https://instagram.com/lastefoto.ee
+links: []
 url_code: ""
 url_pdf: ""
 url_slides: ""

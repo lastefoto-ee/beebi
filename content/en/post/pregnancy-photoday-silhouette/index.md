@@ -9,10 +9,10 @@ summary: Photo day for pregnant ladies will take place on May 28, 2021 in Tallin
 projects: 
 
 # Date published
-date: "2021-05-05T00:00:00Z"
+date: "2021-10-19T10:02:53+03:00"
 
 # Date updated
-lastmod: "2021-05-05T00:00:00Z"
+lastmod: ""2021-10-19T10:02:53+03:00"
 
 # Is this an unpublished draft?
 draft: false

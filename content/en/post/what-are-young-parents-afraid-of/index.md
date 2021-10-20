@@ -9,10 +9,10 @@ summary: What to look for when ordering a photo session for a baby
 projects: []
 
 # Date published
-date: "2021-04-21T00:00:00Z"
+date: "2021-10-19T10:03:53+03:00"
 
 # Date updated
-lastmod: "22021-04-21T00:00:00Z"
+lastmod: "2021-10-19T10:03:53+03:00"
 
 # Is this an unpublished draft?
 draft: false

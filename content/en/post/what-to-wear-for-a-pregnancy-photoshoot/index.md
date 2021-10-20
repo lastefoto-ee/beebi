@@ -9,10 +9,10 @@ summary: Preparing for a pregnancy photoshoot in the style of Vogue
 projects: 
 
 # Date published
-date: "2021-03-25T00:00:00Z"
+date: "2021-10-19T10:04:53+03:00"
 
 # Date updated
-lastmod: "2021-03-25T00:00:00Z"
+lastmod: "2021-10-19T10:04:53+03:00"
 
 # Is this an unpublished draft?
 draft: false

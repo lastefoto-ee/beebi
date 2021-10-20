@@ -4,7 +4,7 @@ summary: beebitüdruk, 19 päeva uus
 tags:
 - beanbagil
 - mähitud
-date: "2019-09-18T00:00:00Z"
+date: "2021-10-19T11:23:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,11 +13,7 @@ image:
   caption: Photo by Viktoria Iljin
   focal_point: Smart
 
-links:
-- icon: facebook
-  icon_pack: fab
-  name: Facebook
-  url: https://facebook.com/lastefoto
+links: []
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -1,6 +1,6 @@
 ---
 title: Политика конфиденциальности
-date: "2021-04-23T00:00:00+01:00"
+date: "2021-10-19T11:48:53+03:00"
 draft: false
 share: false
 commentable: false
