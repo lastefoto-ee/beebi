@@ -30,6 +30,8 @@ image:
   placement: 2
   preview_only: false
 
+profile: false
+
 authors:
   - admin
 

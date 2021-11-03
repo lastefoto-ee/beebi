@@ -80,7 +80,7 @@ highlight_name: false
 ---
 Tere! Olen Viktoria - beebiootuse ja beebifotograaf Tallinnas, Eestis.
 
-Professionaalselt olen tegelenud fotograafiaga alates 2016. aastast. Kuuendat aastat usaldavad emad mind oma beebisid, selle aja jooksul olen pildistanud üle 400 beebit.
+Professionaalselt olen tegelenud vastsündinu fotograafiaga alates 2016. aastast. Kuuendat aastat usaldavad emad mind oma beebisid, selle aja jooksul olen pildistanud üle 500 beebit.
 
 Beebifotosessioon beebi esimesel kahel nädalal on imeline, võrreldamatu pildistamisviis. Elegantne minimalism, lihtsus ja lakoonilisus võimaldavad teil keskenduda ainult beebile. Sellised pildid puudutavad hingesügavust!
 
