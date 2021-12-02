@@ -14,10 +14,6 @@ image:
   focal_point: Smart
 
 links:
-- icon: instagram
-  icon_pack: fab
-  name: Instagram
-  url: https://instagram.com/lastefoto.ee
 url_code: ""
 url_pdf: ""
 url_slides: ""
