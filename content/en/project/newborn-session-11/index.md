@@ -1,5 +1,5 @@
 ---
-title: Newborn photosession
+title: Newborn photo shoot
 summary: babygirl, 10 days new
 tags:
 - beanbag

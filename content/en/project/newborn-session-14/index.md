@@ -1,5 +1,5 @@
 ---
-title: Newborn baby photosession
+title: Newborn baby photo shoot
 summary: babygirl, 14 days new
 tags:
 - props

@@ -1,6 +1,6 @@
 ---
-title: Pregnanct photosession
-summary: Pregnanct photosession in studio
+title: Pregnanct photo shoot
+summary: Pregnanct photo shoot in studio
 tags:
 - pregnancy
 - family

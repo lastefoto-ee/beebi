@@ -1,5 +1,5 @@
 ---
-title: Newborn baby photosession
+title: Newborn baby photo shoot
 summary: twins, 10 days new
 tags:
 - twins

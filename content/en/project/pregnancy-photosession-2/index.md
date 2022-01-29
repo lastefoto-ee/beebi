@@ -1,6 +1,6 @@
 ---
-title: Pregnancy photosession in Tallinn
-summary: Pregnancy photosession in the style of Vogue
+title: Pregnancy photo shoot in Tallinn
+summary: Pregnancy photo shoot in the style of Vogue
 tags:
 - pregnancy
 date: "2021-10-19T10:44:53+03:00"

@@ -1,6 +1,6 @@
 ---
-title: Pregnancy photosession
-summary: Pregnancy photosession in the style of Vogue
+title: Pregnancy photo shoot
+summary: Pregnancy photo shoot in the style of Vogue
 tags:
 - pregnancy
 - silhouette

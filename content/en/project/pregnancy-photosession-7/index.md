@@ -1,6 +1,6 @@
 ---
-title: Pregnancy photosession
-summary: Pregnancy photosession in Tallinn
+title: Pregnancy photo shoot
+summary: Pregnancy photo shoot in Tallinn
 tags:
 - pregnancy
 date: "2021-10-19T10:49:53+03:00"

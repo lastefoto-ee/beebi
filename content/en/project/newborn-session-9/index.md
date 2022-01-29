@@ -1,5 +1,5 @@
 ---
-title: newborn photosession
+title: newborn photo shoot
 summary: babyboy, 10 days new
 tags:
 - props

@@ -1,5 +1,5 @@
 ---
-title: Newborn photosession
+title: Newborn photo shoot
 summary: twins, 7 days new
 tags:
 - twins

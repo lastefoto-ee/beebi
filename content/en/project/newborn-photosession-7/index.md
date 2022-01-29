@@ -1,5 +1,5 @@
 ---
-title: Newborn baby photosession
+title: Newborn baby photo shoot
 summary: babygirl, 12 days new
 tags:
 - family

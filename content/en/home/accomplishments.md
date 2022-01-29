@@ -37,7 +37,7 @@ item:
   description: 'Online course of the founder of the direction "Pregnancy photoshoot in the style of Vogue" - Sasha Bunaeva'
   organization: Sasha Bunaeva
   organization_url: "https://www.lastefoto.ee/en/sasha-bunaeva/"
-  title: 'Online course "Pregnancy photosession in the Vogue style"'
+  title: 'Online course "Pregnancy photo shoot in the Vogue style"'
   url: "https://www.lastefoto.ee/en/sasha-bunaeva/"
 - certificate_url: "https://www.lastefoto.ee/newborn-forum-participation.jpg"
   date_end: ""
