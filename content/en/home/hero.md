@@ -29,17 +29,21 @@ author: admin
 
 design:
   background:
-    color: red
-    gradient_start: '#00ff00'
-    gradient_end: '#000000'
+    #color: black
+    #gradient_start: '#00ff00'
+    #gradient_end: '#000000'
     image: hero.jpg
-    image_darken: 0.6
+    #image_darken: 0.9
     image_size: cover
-    image_position: center
+    image_position: right
     image_parallax: true
     text_color_light: true
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["120px", "100", "120px", "100"]
 
+#advanced:
+#  css_class: fullscreen
+
+author: admin
 ---
 Capture your baby’s growth and development in their first year with 4 photo shoots

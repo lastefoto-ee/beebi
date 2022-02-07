@@ -49,18 +49,21 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/LasteFoto/
+- icon: envelope
+  icon_pack: fas
+  link: '/en/#contact'
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/viktoriailjin/
-- icon: twitter
+- icon: facebook
   icon_pack: fab
-  link: https://twitter.com/lastefoto
-- icon: github
+  link: https://www.facebook.com/LasteFoto/
+- icon: facebook-messenger
   icon_pack: fab
-  link: https://github.com/lastefoto-ee/
+  link: https://m.me/475649002567929
+- icon: whatsapp
+  icon_pack: fab
+  link: https://wa.me/37255599546
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -75,15 +78,10 @@ email: "viktoria.iljin@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Hi! I'm Viktoria - a pregnancy and newborn photographer in Tallinn, Estonia.
-
-I have been professionally engaged in newborn photography since 2016. For sixth years mothers trust me with their newborn babies, during that time I have photographed more than 500 newborn babies.
-
-A newborn photo session in the first two weeks of a baby's life is an amazing, incomparable type of shooting. Elegant minimalism, simplicity and pithiness allow you to focus only on the baby. Such photos touch to the depths of the soul!
-
-I work in my newborn studio, which I have equipped taking into account all the peculiarities and nuances of shooting newborns.
-Collected the best props and original accessories from all over the world.
-
-I would also be happy to publish your photo session pictures in my portfolio with your permission.
+Hi! I'm Viktoria, a newborn photographer in Tallinn, Estonia  since 2016. Mothers trust me with their newborn babies photo shoots for quite a while. I've photographed more than 500 newborn babies. A newborn photo shoot in the first two weeks of a baby's life is an amazing, incomparable type of shooting. Elegant minimalism, simplicity, and pithiness allow you to focus only on the baby. Such photos touch to the depths of the soul! I have collected the best props and original accessories from all over the world. I would also be happy to publish your photo shoot pictures in my portfolio with your permission.
 
 See you at the photo session!
+
+{{< cta cta_text="💛 Capture your baby's growth - book a session today!" cta_link="https://www.lastefoto.ee/en/#contact" cta_new_tab="false" cta_alt_text="or learn more about 👶 newborn photo shoot" cta_alt_link="https://www.lastefoto.ee/en/project/newborn/" cta_alt_new_tab="false" >}}
+
+_You might want to use Facebook/WhatsApp button in the bottom right corner for faster answer, or simply call +37255599546_

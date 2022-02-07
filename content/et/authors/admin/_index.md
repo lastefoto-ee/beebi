@@ -52,18 +52,19 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/LasteFoto/
+
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/viktoriailjin/
-- icon: twitter
+- icon: facebook
   icon_pack: fab
-  link: https://twitter.com/lastefoto
-- icon: github
+  link: https://www.facebook.com/LasteFoto/
+- icon: facebook-messenger
   icon_pack: fab
-  link: https://github.com/lastefoto-ee/
+  link: https://m.me/475649002567929
+- icon: whatsapp
+  icon_pack: fab
+  link: https://wa.me/37255599546
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -90,3 +91,7 @@ Kogutud parim rekvisiit ja originaalsed aksessuaarid kogu maailmast.
 Hea meelega avaldaksin teie loal ka teie fotosessioonipildid minu portfoolios. 
 
 Kohtumiseni fotosessioonil!
+
+{{< cta cta_text="💛 Jäädvusta oma beebi kasvamist - broneeri fotosessioon kohe" cta_link="https://www.lastefoto.ee/#contact" cta_new_tab="false" cta_alt_text="või uuri lisa 👶 vastsündinu fotosessioonist" cta_alt_link="https://www.lastefoto.ee/project/vastsundinud/" cta_alt_new_tab="false" >}}
+
+_Kasuta Facebook Messenger/WhatsApp nuppu lehe paremast nurgast, või helista +37255599546_

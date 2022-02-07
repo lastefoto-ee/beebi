@@ -32,22 +32,24 @@ address:
 coordinates:
   latitude: '59.426760'
   longitude: '24.818860'
-directions: 'Sisenege büroohoonesse ja minge 5. korrusele tuppa 513. '
+directions: 'Sisenege büroohoonesse ja minge 5. korrusele tuppa 513'
+
 office_hours:
 appointment_url: ''
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Twitter
-    link: 'https://twitter.com/lastefoto'
-  - icon: instagram
-    icon_pack: fab
-    name: Instagram
-    link: 'https://www.instagram.com/viktoriailjin/'
-  - icon: facebook
-    icon_pack: fab
-    name: Facebook
-    link: 'https://www.facebook.com/LasteFoto/'
+
+#contact_links:
+#- icon: instagram
+#  icon_pack: fab
+#  link: https://www.instagram.com/viktoriailjin/
+#- icon: facebook
+#  icon_pack: fab
+#  link: https://www.facebook.com/LasteFoto/
+#- icon: facebook-messenger
+#  icon_pack: fab
+#  link: https://m.me/475649002567929/
+#- icon: whatsapp
+#  icon_pack: fab
+#  link: https://wa.me/37255599546/
 
 # Site header
 
@@ -92,7 +94,7 @@ show_related:
 reading_time: false
 section_pager: false
 docs_section_pager: true
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
