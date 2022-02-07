@@ -4,8 +4,8 @@ weight: 10
 headless: true  # This file represents a page section.
 active: true
 # ... Put Your Section Options Here (title etc.) ...
-title: Introducing a perfect product for new parents!
-subtitle: Capture your baby’s growth and development in their first year with 4 photo shoots
+title: Unikaalne pakkumine värsketele vanematele!
+
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
 hero_media: 'hero3.png'
 
@@ -13,17 +13,17 @@ hero_media: 'hero3.png'
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: 'https://www.lastefoto.ee/en/project/babys-first-year/'
-  label: Baby's First Year
+  url: 'https://www.lastefoto.ee/project/esimene-eluaasta/'
+  label: Beebi Esimene Eluaasta
   icon_pack: fas
   icon: baby
 cta_alt:
-  url: 'https://www.lastefoto.ee/en/project/newborn/'
-  label:  or check the newborn photo session packages
+  url: 'https://www.lastefoto.ee/project/vastsundinud/'
+  label:  või vaata vastsündinu fotosessiooni pakette
 
 # Note. An optional note to show underneath the links.
 cta_note:
-  label: 'We have a wide range of props and backdrops available, so you can create a truly unique photo session'
+  label: 'Meil on olemas lai valik rekvisiite, et luua tõeliselt ainulaadse fotosessiooni'
 
 author: admin
 
@@ -46,4 +46,4 @@ design:
 
 author: admin
 ---
-Capture your baby’s growth and development in their first year with 4 photo shoots
+Jäädvusta oma beebi kasvu ja arengut tema esimesel eluaastal nelja fotosessiooniga 

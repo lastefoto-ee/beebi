@@ -52,12 +52,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/LasteFoto/
+- icon: envelope
+  icon_pack: fas
+  link: '/ru/#contact'
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/viktoriailjin/
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/LasteFoto/
 - icon: facebook-messenger
   icon_pack: fab
   link: https://m.me/475649002567929
