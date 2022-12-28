@@ -1,9 +1,9 @@
 ---
-title: What to wear for a pregnancy photo shoot
-subtitle: Preparing for a pregnancy photoshoot
+title: What to wear for a Maternity photo shoot
+subtitle: Preparing for a Maternity photoshoot
 
 # Summary for listings and search engines
-summary: Preparing for a pregnancy photoshoot in the style of Vogue
+summary: Preparing for a Maternity photoshoot in the style of Vogue
 
 # Link this post with a project
 projects: 
@@ -34,19 +34,19 @@ authors:
   - admin
 
 tags:
-  - pregnancy photoshoot
+  - Maternity photoshoot
   - Vogue
   - tips
   - clothes
 
 categories:
-  - pregnancy
+  - Maternity
 ---
 
 ## Bodysuit
 _Perfect option_
 
-{{< figure src="./pregnancy-photoshoot-1.jpg" title="Pregnancy photo shoot in Vogue style in Tallinn" >}}
+{{< figure src="./Maternity-photoshoot-1.jpg" title="Maternity photo shoot in Vogue style in Tallinn" >}}
 
 Perfectly emphasizes beautiful lines and curves of the figure. You can use it as an independent image or in combination with other items of clothing.
 
@@ -56,7 +56,7 @@ Bodysuits of bright colors or with prints will also look good, but please let me
 
 ## Lingerie
 
-{{< figure src="./pregnancy-photoshoot-2.jpg" title="Pregnancy photo shoot in Tallinn" >}}
+{{< figure src="./Maternity-photoshoot-2.jpg" title="Maternity photo shoot in Tallinn" >}}
 
 For photos in lingerie, any type of underwear is suitable - basic, sports, smart.
 
@@ -67,40 +67,40 @@ On top of the lingerie, you can put on an open shirt/jacket, put on jeans/trouse
 ## Plain dress
 _Emphasize the graceful lines of your figure_
 
-{{< figure src="./pregnancy-photoshoot-3.jpg" title="Pregnancy photoshoot in Vogue style in Tallinn" >}}
+{{< figure src="./Maternity-photoshoot-3.jpg" title="Maternity photoshoot in Vogue style in Tallinn" >}}
 
-_YES:_ Luxurious evening dresses are perfect for a Vogue-style pregnancy photo shoot.
+_YES:_ Luxurious evening dresses are perfect for a Vogue-style Maternity photo shoot.
 Even if it is not fully fastened, it does not matter, we will figure out how to hide it. 
 
 _NO:_ Summer "floral print" dresses
 
 ## Basic dress
 
-{{< figure src="./pregnancy-photoshoot-4.jpg" title="Pregnancy photo shoot in Tallinn" >}}
+{{< figure src="./Maternity-photoshoot-4.jpg" title="Maternity photo shoot in Tallinn" >}}
 
 A regular noodle dress - works great on its own and can also be a good basis for an image with outerwear, accessories, shoes.
 
 ## Shirt
 
-{{< figure src="./pregnancy-photoshoot-5.jpg" title="Pregnancy photo shoot in studio" >}}
+{{< figure src="./Maternity-photoshoot-5.jpg" title="Maternity photo shoot in studio" >}}
 
 The shirt must be loose! Take a man's or a woman's, but a size or two larger than yours. It can be thrown over a bodysuit, underwear or a naked body - it will be very stylish.
 
-{{< figure src="./pregnancy-photoshoot-6.jpg" title="Pregnancy photoshoot in Tallinn" >}}
+{{< figure src="./Maternity-photoshoot-6.jpg" title="Maternity photoshoot in Tallinn" >}}
 
 An alternative to a shirt is a jacket on a naked body or over a body / underwear.
 It should be long and loose. Then the image will be modern, stylish and visually slimming for you.
 
 ## Jeans/Pants/Pantsuits
 
-{{< figure src="./pregnancy-photoshoot-7.jpg" title="Pregnancy photoshoot in the style of Vogue in Tallinn" >}}
+{{< figure src="./Maternity-photoshoot-7.jpg" title="Maternity photoshoot in the style of Vogue in Tallinn" >}}
 
 Jeans/pants can be paired with shirts, bodysuits, outerwear, or on their own.
 Jeans/trousers may not be fully fastened on the belly, but they must be modern - not too tight, without embroidery, rhinestones, holes, etc.
 
 ## Outerwear
 
-{{< figure src="./pregnancy-photoshoot-8.jpg" title="Pregnancy photo shoot in Tallinn" >}}
+{{< figure src="./Maternity-photoshoot-8.jpg" title="Maternity photo shoot in Tallinn" >}}
 
 One of the advantages of the Vogue style is that we are not limited to the interior and can freely use outerwear in our set-ups.
 Trench, coat, fur or raincoat, leather or denim jacket.

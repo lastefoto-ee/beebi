@@ -34,51 +34,51 @@ authors:
   - admin
 
 tags:
-  - pregnancy photo session
+  - Maternity photo session
   - Vogue
   - photo day
 
 categories:
-  - pregnancy
+  - Maternity
 
 
 gallery_item:
 - album: silhouette
-  image: pregnancy-photosession-11.jpg
-  caption: Pregnancy photo shoot in the studio
+  image: Maternity-photosession-11.jpg
+  caption: Maternity photo shoot in the studio
 - album: silhouette
-  image: pregnancy-photosession-12.jpg
-  caption: Pregnancy photo session in Tallinn
+  image: Maternity-photosession-12.jpg
+  caption: Maternity photo session in Tallinn
 - album: silhouette
-  image: pregnancy-photosession-13.jpg
-  caption: Pregnancy session 
+  image: Maternity-photosession-13.jpg
+  caption: Maternity session 
 - album: silhouette
-  image: pregnancy-photosession-14.jpg
+  image: Maternity-photosession-14.jpg
   caption: Prepnancy session in the style of Vogue
 - album: silhouettes
-  image: pregnancy-photosession-10.jpg
+  image: Maternity-photosession-10.jpg
   caption: Prepnancy session in the Vogue style
 - album: silhouettes
-  image: pregnancy-photosession-5.jpg
+  image: Maternity-photosession-5.jpg
   caption: Prepnancy photo shoot in the style of Vogue
 - album: silhouettes
-  image: pregnancy-photosession-4.jpg
-  caption: Pregnancy photo shoot in Tallinn
+  image: Maternity-photosession-4.jpg
+  caption: Maternity photo shoot in Tallinn
 - album: silhouettes
-  image: pregnancy-photosession-3.jpg
-  caption: Pregnancy photo shoot
+  image: Maternity-photosession-3.jpg
+  caption: Maternity photo shoot
 - album: silhouettes
-  image: pregnancy-photosession-7.jpg
-  caption: Pregnancy photo shoot in Tallinn
+  image: Maternity-photosession-7.jpg
+  caption: Maternity photo shoot in Tallinn
 - album: silhouettes
-  image: pregnancy-photosession-6.jpg
-  caption: Pregnancy session in Vogue style
+  image: Maternity-photosession-6.jpg
+  caption: Maternity session in Vogue style
 - album: silhouettes
-  image: pregnancy-photosession-8.jpg
-  caption: Pregnancy photo shoot in Tallinn
+  image: Maternity-photosession-8.jpg
+  caption: Maternity photo shoot in Tallinn
 - album: silhouettes
-  image: pregnancy-photosession-9.jpg
-  caption: Pregnancy photo session in the style of Vogue
+  image: Maternity-photosession-9.jpg
+  caption: Maternity photo session in the style of Vogue
 
 ---
 {{< cta cta_text="Book time for a photo day" cta_link="/en/#contact" cta_new_tab="true" cta_alt_text="or find out more about the newborn photo shoot" cta_alt_link="/en/post/what-are-young-parents-afraid-of/" cta_alt_new_tab="false" >}}

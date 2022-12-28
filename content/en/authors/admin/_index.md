@@ -6,7 +6,7 @@ title: Viktoria Iljin
 superuser: true
 
 # Role/position/tagline
-role: Pregnancy and newborn photographer
+role: Maternity and newborn photographer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.lastefoto.ee/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Pregnancy and newborn photographer in Tallinn, Estonia.
+bio: Maternity and newborn photographer in Tallinn, Estonia.
 
 # Interests to show in About widget
 interests:
@@ -27,8 +27,11 @@ education:
   courses:
   - course: Newborn Retreat
     institution: themilkyway.ca
+    year: 2022
+  - course: Newborn Retreat
+    institution: themilkyway.ca
     year: 2021
-  - course: Pregnancy photo shoot in the style of Vogue
+  - course: Maternity photo shoot in the style of Vogue
     institution: bunaeva.com
     year: 2021  
   - course: NewbornForum workshops
@@ -78,10 +81,10 @@ email: "viktoria.iljin@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Hi! I'm Viktoria, a newborn photographer in Tallinn, Estonia  since 2016. Mothers trust me with their newborn babies photo shoots for quite a while. I've photographed more than 500 newborn babies. A newborn photo shoot in the first two weeks of a baby's life is an amazing, incomparable type of shooting. Elegant minimalism, simplicity, and pithiness allow you to focus only on the baby. Such photos touch to the depths of the soul! I have collected the best props and original accessories from all over the world. I would also be happy to publish your photo shoot pictures in my portfolio with your permission.
+Hi! I'm Viktoria, a maternity and a newborn photographer in Tallinn, Estonia  since 2016. Mothers trust me with their newborn babies photo shoots for quite a while. I've photographed more than 500 newborn babies. A newborn photo shoot in the first two weeks of a baby's life is an amazing, incomparable type of shooting. Elegant minimalism, simplicity, and pithiness allow you to focus only on the baby. Such photos touch to the depths of the soul! I have collected the best props and original accessories from all over the world. I would also be happy to publish your photo shoot pictures in my portfolio with your permission.
 
 See you at the photo session!
 
-{{< cta cta_text="💛 Capture your baby's growth - book a session today!" cta_link="https://www.lastefoto.ee/en/#contact" cta_new_tab="false" cta_alt_text="or learn more about 👶 newborn photo shoot" cta_alt_link="https://www.lastefoto.ee/en/project/newborn/" cta_alt_new_tab="false" >}}
+{{< cta cta_text="💛 Capture your baby's growth - book a session today!" cta_link="https://www.beebi.eu/en/#contact" cta_new_tab="false" cta_alt_text="or learn more about 👶 newborn photo shoot" cta_alt_link="https://www.beebi.eu/en/project/newborn/" cta_alt_new_tab="false" >}}
 
 _You might want to use Facebook/WhatsApp button in the bottom right corner for faster answer, or simply call +37255599546_

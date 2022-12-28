@@ -14,12 +14,9 @@ et:
       - name: Minust
         url: '#about'
         weight: 40
-      - name: Portfoolio 
+      - name: Portfoolio ja hinnad
         url: '#projects'
         weight: 10
-      - name: Hinnakiri
-        url: '#skills'
-        weight: 20
       - name: Kontakt
         url: '#contact'
         weight: 50
@@ -37,12 +34,9 @@ ru:
       - name: Обо мне
         url: '#about'
         weight: 40
-      - name: Портфолио 
+      - name: Портфолио и цены
         url: '#projects'
         weight: 10
-      - name: Цены
-        url: '#skills'
-        weight: 20
       - name: Контакт
         url: '#contact'
         weight: 50
@@ -54,18 +48,15 @@ en:
   contentDir: content/en
   title: Newborn photographer
   params:
-    description: Pregnancy and newborn photographer in Tallinn - Viktoria Iljin
+    description: Maternity and newborn photographer in Tallinn - Viktoria Iljin
   menu:
     main:
       - name: About me
         url: '#about'
         weight: 40
-      - name: Portfolio
+      - name: Portfolio and prices
         url: '#projects'
         weight: 10
-      - name: Prices
-        url: '#skills'
-        weight: 20
       - name: Contact
         url: '#contact'
         weight: 50

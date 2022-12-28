@@ -32,7 +32,22 @@ address:
 coordinates:
   latitude: '59.426760'
   longitude: '24.818860'
-directions: 'Sisenege büroohoonesse ja minge 5. korrusele tuppa 513'
+directions: 'Susi büroohoone, 5. korrus, tuba 513'
+office_hours:
+appointment_url: ''
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: Twitter
+    link: 'https://twitter.com/lastefoto'
+  - icon: instagram
+    icon_pack: fab
+    name: Instagram
+    link: 'https://www.instagram.com/viktoriailjin/'
+  - icon: facebook
+    icon_pack: fab
+    name: Facebook
+    link: 'https://www.facebook.com/LasteFoto/'
 
 office_hours:
 appointment_url: ''
