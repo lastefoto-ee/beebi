@@ -6,7 +6,7 @@
 et:
   languageCode: et
   contentDir: content/et
-  title: Beebi
+  title: Beebi fotograaf
   params:
     description: Beebiootuse ja beebi fotograaf Tallinnas - Viktoria Iljin
   menu:
@@ -26,7 +26,7 @@ et:
 ru:
   languageCode: ru
   contentDir: content/ru
-  title: Фотограф беременности
+  title: Фотограф малышей
   params:
     description: Фотограф беременности и новорожденных в Таллинне - Виктория Ильин
   menu:  
@@ -46,7 +46,7 @@ ru:
 en:
   languageCode: en
   contentDir: content/en
-  title: Maternity photographer
+  title: Baby photographer
   params:
     description: Maternity and newborn photographer in Tallinn - Viktoria Iljin
   menu:
