@@ -37,7 +37,7 @@ design:
     image_size: cover
     image_position: right
     image_parallax: true
-    text_color_light: true
+    text_color_light: false
   spacing:
     padding: ["120px", "100", "120px", "100"]
 
