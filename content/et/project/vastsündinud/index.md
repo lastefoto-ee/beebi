@@ -3,13 +3,13 @@ title: Vastsündinud
 summary: fotosessioon beebi 5-14 elupäeval
 tags:
 - vastsündinud
-date: "2023-03-19T05:53:53+03:00"
+date: "2023-04-25T05:53:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by Viktoria Iljin
+  caption: Vastsündinu fotograaf Viktoria Iljin
   focal_point: Smart
 
 links: []
@@ -27,7 +27,12 @@ slides: ""
 weight: 3
 
 ---
+{{< figure src="vastsundinu-fotosessioon-tallinn-3.jpg" title="Vastsündinu fotosessioon stuudios, beebitüdruk 11 päeva uus" >}}
+
+{{< video library="true" src="fotoraamat-tallinn.mp4" controls="yes" >}}
+
 ## Minipakett (1-2,5 tundi) *320*€ 
+<small>*makse on võimalik kahes osas</small>
 
 _Ideaalne aeg vastsündinu pildistamiseks on 5-14 päeva vanuselt_
 
@@ -47,7 +52,8 @@ Hind sisaldab:
 
 {{< figure src="vastsundinu-fotosessioon-tallinnas-minipakett.jpg" title="Vastsündinu fotosessioon Tallinnas, näidispildid" >}}
 
-## Täispakett (2-4 tundi) *390*€ 
+## Täispakett (2-4 tundi) *390*€
+<small>*makse on võimalik kahes osas</small>
 
 _Ideaalne aeg vastsündinu pildistamiseks on 5-14 päeva vanuselt_
 
@@ -79,30 +85,28 @@ Hind sisaldab:
 
 {{< cta cta_text="💛 Broneeri fotosessioon kohe" cta_link="/#contact" cta_new_tab="false" >}}
 
-{{< figure src="beebi-pildistamine-27.jpg" title="Vastsündinu pilt" >}}
-{{< figure src="beebi-pildistamine-26.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
-{{< figure src="beebi-pildistamine-25.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
-{{< figure src="beebi-pildistamine-24.jpg" title="Beebi fotosessioon stuudios Tallinnas" >}}
-{{< figure src="beebi-pildistamine-23.jpg" title="Vastsündinu pilt" >}}
-{{< figure src="beebi-pildistamine-22.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
-{{< figure src="beebi-pildistamine-21.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
-{{< figure src="beebi-pildistamine-20.jpg" title="Beebi pildistamine Tallinna stuudios" >}}
-{{< figure src="beebi-pildistamine-19.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
-{{< figure src="beebi-pildistamine-18.jpg" title="Vastsündinu pilt" >}}
-{{< figure src="beebi-pildistamine-17.jpg" title="Beebi pildistamine stuudios" >}}
-{{< figure src="beebi-pildistamine-16.jpg" title="Vastsündinud beebi fotosessioon Tallinnas" >}}
-{{< figure src="beebi-pildistamine-15.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
-{{< figure src="beebi-pildistamine-14.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
-{{< figure src="beebi-pildistamine-13.jpg" title="Beebi fotosessioon stuudios Tallinnas" >}}
-{{< figure src="beebi-pildistamine-12.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas" >}}
-{{< figure src="beebi-pildistamine-11.jpg" title="Vastsündinud beebi fotosessioon stuudios Tallinnas" >}}
-{{< figure src="beebi-pildistamine-10.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
-{{< figure src="beebi-pildistamine-9.jpg" title="Vastsündinud beebi pildistamine stuudios" >}}
-{{< figure src="beebi-pildistamine-8.jpg" title="Vastsündinud beebi pildistamine Tallinnas" >}}
-{{< figure src="beebi-pildistamine-7.jpg" title="Vastsündinu pildistamine Tallinna stuudios" >}}
-{{< figure src="beebi-pildistamine-6.jpg" title="Beebifotosessioon stuudios Tallinnas" >}}
-{{< figure src="beebi-pildistamine-5.jpg" title="Beebipilt" >}}
-{{< figure src="beebi-pildistamine-4.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
-{{< figure src="beebi-pildistamine-3.jpg" title="Fotosessioon vastsündinud beebiga stuudios" >}}
-{{< figure src="beebi-pildistamine-2.jpg" title="Vastsündinu fotosessioon Tallinnas" >}}
-{{< figure src="beebi-pildistamine-1.jpg" title="Vastsündinud beebiga pildistamine stuudios" >}}
+{{< video library="true" src="fotoraamat-beebifotosessioon-tallinn.mp4" controls="yes" >}}
+{{< figure src="vastsundinu-fotosessioon-tallinn-21.jpg" title="Imiku fotosessioon, beebipoiss 12 päeva uus" >}}
+{{< video library="true" src="fotoraamat-vastsundinu-fotosessioon-tallinn.mp4" controls="yes" >}}
+{{< figure src="vastsundinu-fotosessioon-tallinn-1.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas, beebitüdruk 10 päeva uus" >}}
+{{< figure src="vastsundinu-fotosessioon-tallinn-2.jpg" title="Imiku pildistamine Tallinnas, beebipoiss 19 päeva uus" >}}
+{{< figure src="vastsundinu-fotosessioon-tallinn-4.jpg" title="Vastsündinu pildistamine Tallinnas, beebitüdruk 10 päeva uus" >}}
+{{< figure src="vastsundinu-fotosessioon-tallinn-5.jpg" title="Imiku fotosessioon, beebipoiss 11 päeva uus" >}}
+[💛 Broneeri vastsündinu fotosessioon](/#contact)
+{{< figure src="vastsundinu-fotosessioon-tallinn-6.jpg" title="Imiku fotosessioon stuudios Tallinnas, beebipoiss 18 päeva uus" >}}
+{{< figure src="vastsundinu-fotosessioon-tallinn-7.jpg" title="Vastsündinu pildistamine Tallinnas, beebitüdruk 14 päeva uus" >}}
+{{< figure src="vastsundinu-fotosessioon-tallinn-8.jpg" title="Imiku pildistamise koolitus, beebitüdruk 12 päeva uus" >}}
+{{< figure src="vastsundinu-fotosessioon-tallinn-9.jpg" title="Vastsündinud kaksikute pildistamine Tallinnas, beebitüdrukud 12 päeva uus" >}}
+{{< figure src="vastsundinu-fotosessioon-tallinn-10.jpg" title="Vastsündinu fotosessioon, beebitüdruk 8 päeva uus" >}}
+[💛 Broneeri vastsündinu fotosessioon](/#contact)
+{{< figure src="vastsundinu-fotosessioon-tallinn-11.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas, beebitüdruk 11 päeva uus" >}}
+{{< figure src="vastsundinu-fotosessioon-tallinn-12.jpg" title="Imiku pildistamine Tallinnas, beebipoiss 12 päeva uus" >}}
+{{< figure src="vastsundinu-fotosessioon-tallinn-13.jpg" title="Vastsündinu fotosessioon stuudios, beebitüdruk 14 päeva uus" >}}
+{{< figure src="vastsundinu-fotosessioon-tallinn-14.jpg" title="Vastsündinu pildistamine Tallinnas, beebitüdruk 53 päeva uus" >}}
+{{< figure src="vastsundinu-fotosessioon-tallinn-15.jpg" title="Imiku fotosessioon, beebipoiss 11 päeva uus" >}}
+[💛 Broneeri vastsündinu fotosessioon](/#contact)
+{{< figure src="vastsundinu-fotosessioon-tallinn-16.jpg" title="Vastsündinu fotosessioon stuudios Tallinnas, beebitüdruk 14 päeva uus" >}}
+{{< figure src="vastsundinu-fotosessioon-tallinn-17.jpg" title="Vastsündinu pildistamine Tallinnas, beebitüdruk 14 päeva uus" >}}
+{{< figure src="vastsundinu-fotosessioon-tallinn-19.jpg" title="Vastsündinu pildistamine Tallinnas, beebipoiss 14 päeva uus" >}}
+{{< figure src="vastsundinu-fotosessioon-tallinn-20.jpg" title="Vastsündinu pildistamise koolitus, beebitüdruk 6 päeva uus" >}}
+[💛 Broneeri vastsündinu fotosessioon](/#contact)
